@@ -1,2 +1,3 @@
 # my-awsome-project
-creation d'un repo
+
+This awesome project is created to experiment git notions like clone, push and pull
